@@ -1,1 +1,1 @@
-## Experiment name
+## Name of the experiment
