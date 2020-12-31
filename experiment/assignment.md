@@ -1,5 +1,3 @@
-### Assignment
-
 1. Write a program (C/Matlab/Octave/Scilab) to separate the source and system of a given speech signal of 1 to 2 seconds using short-time LP analysis. Use a window size of 20 ms, a window shift of 10 ms, an LP order of 10. Plot the original signal and the LP residual signal.
 
 2. Write a program (C/Matlab/Octave/Scilab) to resynthesize the speech signal given the sequence of LPCs and the following excitation signals:

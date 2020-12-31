@@ -1,5 +1,3 @@
-### Procedure
-
 - Step1: Choose any of the pre-recorded speech signals from the 'Select an audio file' dropdown menu.
 
 - Step2: Play the audio file and observe the waves.
