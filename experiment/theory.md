@@ -10,5 +10,5 @@ Keep in mind that the filter coefficients will change continuously as the shape 
 One very effective application of LPC is the compression of speech signals. For example, an LPC vocoder (voice-coder) is a system used in many telephone systems to reduce the bit rate for the transmission of speech. This system has two overall components: an analysis section which computes signal parameters (gain, filter coefficients, etc.), and a synthesis section which reconstructs the speech signal after transmission. Since we have introduced the speech model, and the estimation of LPC coefficients, we now have all the tools necessary to implement a simple vocoder. First, in the analysis section, the original speech signal will be split into short time frames. For each frame, we will compute the signal energy, the LPC coefficients, and determine whether the segment is voiced or unvoiced.
 
 
-Adapted from: Bouman, Charles A., "Lab 9b - Speech Processing (part 2)." Connexions. September 17, 2009. from http://cnx.org/content/m18087/1.3/ under the Creative Commons Attribution 2.0 Generic License.
+**Adapted from:** Bouman, Charles A., "Lab 9b - Speech Processing (part 2)." Connexions. September 17, 2009. from http://cnx.org/content/m18087/1.3/ under the Creative Commons Attribution 2.0 Generic License.
 
